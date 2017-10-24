@@ -18,11 +18,7 @@ according to the following rules:
 
 3. If the dates are identical the data from the record provided last in the list should be preferred
 
-
-
 Simplifying assumption: the program can do everything in memory (don't worry about large files)
-
-
 
 The application should also provide a log of changes including some representation of the source record, the output record and the individual field changes 
 
